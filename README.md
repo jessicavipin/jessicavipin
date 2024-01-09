@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jessicavipin
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Bsc. 2nd year in Mathematics and Computer science in Chennai mathematical institute
-- 💞️ I’m looking to collaborate on anything related to my branch of study
+- 🌱 I’m currently learning Msc. 1st year in Computer science at Chennai Mathematical Institute
+- 💞️ I’m looking to collaborate on anything related to my branch of study (ML, Verification and Concurrent programming)
 - 📫 reach me @- jessicavipin7@gmail.com
 
 <!---
